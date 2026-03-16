@@ -1,9 +1,12 @@
-# Projeto de Extensão: Gestão de Carreiras - Web Dev
+# Desenvolvimento Web: Carreira, Inovação e ODS 9
+**Projeto Extensionista | ADS - 1º Período**
+*Tema Integrador: Gestão de Carreiras*
 
-Este projeto faz parte da graduação em ADS e explora a carreira de Desenvolvimento Web, sua importância no mercado e conexão com a ODS 9.
+## 📌 Sobre o Projeto
+Este projeto explora o ecossistema do Desenvolvimento Web, analisando as principais funções, mercado de trabalho e a conexão da tecnologia com o Objetivo de Desenvolvimento Sustentável 9 (Indústria, Inovação e Infraestrutura).
 
-## Status do Projeto
+## ✅ Status das Atividades
 - [x] Pesquisa e Análise de Carreira
-- [x] Configuração do GitHub
-- [ ] Desenvolvimento do Site Profissional
-- [ ] Relatório Final
+- [x] Configuração do GitHub (Repositório e Versionamento)
+- [ ] Desenvolvimento do Site Profissional (Hospedado via GitHub Pages)
+- [ ] Relatório Final e Portfólio
