@@ -8,5 +8,5 @@ Este projeto explora o ecossistema do Desenvolvimento Web, analisando as princip
 ## ✅ Status das Atividades
 - [x] Pesquisa e Análise de Carreira
 - [x] Configuração do GitHub (Repositório e Versionamento)
-- [ ] Desenvolvimento do Site Profissional (Hospedado via GitHub Pages)
+- [x] Desenvolvimento do Site Profissional (Hospedado via GitHub Pages)
 - [ ] Relatório Final e Portfólio
